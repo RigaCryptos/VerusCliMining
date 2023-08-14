@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://eu.luckpool.net:3956",
 		"timeout": 150
 	}],
-	"user": "RCFHSmmB1bDSryRWV8rP67VDaC9MQBzHEb.Gamma",
+	"user": "RCFHSmmB1bDSryRWV8rP67VDaC9MQBzHEb.Beta",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
